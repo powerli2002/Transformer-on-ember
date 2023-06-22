@@ -1,0 +1,26 @@
+transformer-检测到恶意软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/resmon.exetensor([[-0.3932,  0.0862]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/resmon.exescore:3.1057621514862643e-06
+transformer-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/sc.exetensor([[-0.0951, -0.2113]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/sc.exescore:2.697873980669171e-09
+transformer-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/calc.exetensor([[ 1.2237, -1.4559]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/calc.exescore:1.5163084619312664e-05
+transformer-检测到恶意软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/ping.exetensor([[-1.0801,  0.9286]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/ping.exescore:3.6237666852511724e-08
+transformer-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/nslookup.exetensor([[ 0.3638, -0.5946]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/nslookup.exescore:2.0796432581527592e-07
+transformer-检测到恶意软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/cmd.exetensor([[-0.1555, -0.0945]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/cmd.exescore:1.521433257137712e-08
+transformer-检测到恶意软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/notepad.exetensor([[-0.3634,  0.0733]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/notepad.exescore:2.3084019812944763e-05
+transformer-检测到恶意软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/pwcreator.exetensor([[-0.2352, -0.0317]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/pwcreator.exescore:1.3316794843450264e-07
+transformer-检测到恶意软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/ntprint.exetensor([[-0.5439,  0.3447]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/ntprint.exescore:1.5929357878427818e-07
+transformer-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/perfmon.exetensor([[ 0.0714, -0.3478]], device='cuda:0')
+ember-检测到良性软件！/home/lizijian/lincode/ember/evaluation/samples_goodware/perfmon.exescore:2.47958368041888e-07
+
+总共检测软件数量：10
+transformer-恶意软件数量：6
+transformer-检出率：0.6
+ember-恶意软件数量：0
+ember-检出率：0.0

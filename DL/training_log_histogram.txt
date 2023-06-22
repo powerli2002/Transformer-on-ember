@@ -1,0 +1,11 @@
+============2023-06-18 13:39:04.939245============
+transformer3-epoch=5,batch_idx=1, loss=0.814262,acc=0.6094
+transformer3-epoch=5,batch_idx=1001, loss=0.388465,acc=0.7212
+transformer3-epoch=5,batch_idx=2001, loss=0.395152,acc=0.7354
+transformer3-epoch=5,batch_idx=3001, loss=0.442244,acc=0.7446
+transformer3-epoch=5,batch_idx=4001, loss=0.433240,acc=0.7531
+transformer3-epoch=5,batch_idx=5001, loss=0.374846,acc=0.7594
+transformer3-epoch=5,batch_idx=6001, loss=0.412414,acc=0.7638
+transformer3-epoch=5,batch_idx=7001, loss=0.467764,acc=0.7679
+transformer3-epoch=5,batch_idx=8001, loss=0.405626,acc=0.7715
+transformer3-epoch=5,batch_idx=9001, loss=0.458831,acc=0.775

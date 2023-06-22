@@ -1,0 +1,410 @@
+transformer2-epoch=0, loss=2.242640,acc=0.5625
+transformer2-epoch=0, loss=1.142531,acc=0.5781
+transformer2-epoch=0, loss=1.360894,acc=0.5703
+transformer2-epoch=3, loss=0.539203,acc=0.7188
+transformer2-epoch=3, loss=0.519720,acc=0.7192
+transformer2-epoch=3, loss=0.539936,acc=0.7199
+transformer2-epoch=3, loss=0.481985,acc=0.7201
+transformer2-epoch=3, loss=0.480998,acc=0.7219
+transformer2-epoch=3, loss=0.530085,acc=0.7212
+transformer2-epoch=3, loss=0.525524,acc=0.7211
+transformer2-epoch=3, loss=0.632982,acc=0.7216
+transformer2-epoch=3, loss=0.533787,acc=0.7224
+transformer2-epoch=3, loss=0.589385,acc=0.7227
+transformer2-epoch=4, loss=0.567968,acc=0.6562
+transformer2-epoch=4, loss=0.514674,acc=0.7281
+transformer2-epoch=4, loss=0.673006,acc=0.7273
+transformer2-epoch=4, loss=0.429506,acc=0.7276
+transformer2-epoch=4, loss=0.548967,acc=0.7283
+transformer2-epoch=4, loss=0.360598,acc=0.7288
+transformer2-epoch=4, loss=0.552113,acc=0.7285
+transformer2-epoch=4, loss=0.494968,acc=0.7285
+transformer2-epoch=4, loss=0.545950,acc=0.7287
+transformer2-epoch=4, loss=0.560814,acc=0.7289
+transformer2-epoch=5, loss=0.537532,acc=0.7266
+transformer2-epoch=5, loss=0.524805,acc=0.7315
+transformer2-epoch=5, loss=0.473856,acc=0.7312
+transformer2-epoch=5, loss=0.566406,acc=0.7318
+transformer2-epoch=3, loss=0.502117,acc=0.7422
+transformer2-epoch=3, loss=0.496677,acc=0.7183
+transformer2-epoch=3, loss=0.610428,acc=0.7192
+transformer2-epoch=6, loss=0.456615,acc=0.7656
+transformer2-epoch=6, loss=0.424680,acc=0.7347
+transformer2-epoch=6, loss=0.519595,acc=0.7341
+transformer2-epoch=6, loss=0.512897,acc=0.7342
+transformer2-epoch=6, loss=0.447700,acc=0.7345
+transformer2-epoch=6, loss=0.478385,acc=0.7346
+transformer2-epoch=6, loss=0.451121,acc=0.7345
+transformer2-epoch=6, loss=0.465233,acc=0.7348
+transformer2-epoch=6, loss=0.431344,acc=0.735
+transformer2-epoch=6, loss=0.517848,acc=0.7353
+transformer2-epoch=7, loss=0.497222,acc=0.7031
+transformer2-epoch=7, loss=0.445321,acc=0.7384
+transformer2-epoch=7, loss=0.539649,acc=0.7378
+transformer2-epoch=7, loss=0.415377,acc=0.7373
+transformer2-epoch=7, loss=0.472065,acc=0.7377
+transformer2-epoch=7, loss=0.522456,acc=0.7378
+transformer2-epoch=7, loss=0.487483,acc=0.738
+transformer2-epoch=7, loss=0.436037,acc=0.7386
+transformer2-epoch=7, loss=0.557660,acc=0.739
+transformer2-epoch=7, loss=0.536780,acc=0.7392
+transformer2-epoch=6, loss=0.515216,acc=0.6875
+transformer2-epoch=8, loss=0.490525,acc=0.7188
+transformer2-epoch=8, loss=0.527783,acc=0.7031
+transformer2-epoch=8, loss=0.528576,acc=0.7344
+transformer2-epoch=7, loss=0.485538,acc=0.7397
+transformer2-epoch=7, loss=0.539096,acc=0.7396
+transformer2-epoch=7, loss=0.485670,acc=0.7392
+transformer2-epoch=6,loss=0.511997,acc=0.7969
+transformer2-epoch=6,loss=0.603113,acc=0.6719
+transformer2-epoch=6,loss=0.486496,acc=0.7391
+transformer2-epoch=6,loss=0.563372,acc=0.738
+transformer2-epoch=6,loss=0.440091,acc=0.7377
+transformer2-epoch=6,loss=0.526864,acc=0.7382
+transformer2-epoch=6,loss=0.495988,acc=0.7384
+transformer2-epoch=6,loss=0.414824,acc=0.7385
+transformer2-epoch=6,loss=0.506633,acc=0.7387
+transformer2-epoch=6,loss=0.553537,acc=0.739
+transformer2-epoch=6,loss=0.416711,acc=0.7394
+transformer2-epoch=7,loss=0.553581,acc=0.7188
+transformer2-epoch=7,loss=0.468843,acc=0.7427
+transformer2-epoch=7,loss=0.514851,acc=0.7414
+transformer2-epoch=7,loss=0.457249,acc=0.7426
+transformer2-epoch=7,loss=0.460896,acc=0.7431
+transformer2-epoch=7,loss=0.482839,acc=0.7429
+transformer2-epoch=7,loss=0.490180,acc=0.7432
+transformer2-epoch=7,loss=0.359697,acc=0.7428
+transformer2-epoch=7,loss=0.428097,acc=0.7431
+transformer2-epoch=7,loss=0.529708,acc=0.7433
+transformer2-epoch=8,loss=0.484128,acc=0.6875
+transformer2-epoch=8,loss=0.501871,acc=0.7465
+transformer2-epoch=8,loss=0.693767,acc=0.7482
+transformer2-epoch=8,loss=0.482282,acc=0.7484
+transformer2-epoch=8,loss=0.544371,acc=0.7486
+transformer2-epoch=8,loss=0.512014,acc=0.748
+transformer2-epoch=8,loss=0.496226,acc=0.7483
+transformer2-epoch=8,loss=0.524365,acc=0.7266
+transformer2-epoch=8,loss=0.493238,acc=0.7462
+transformer2-epoch=8,loss=0.498475,acc=0.749
+transformer2-epoch=8,loss=0.461946,acc=0.7502
+transformer2-epoch=8,loss=0.542111,acc=0.7501
+transformer2-epoch=8,loss=0.414925,acc=0.7499
+transformer2-epoch=8,loss=0.569142,acc=0.7498
+transformer2-epoch=8,loss=0.509344,acc=0.7501
+transformer2-epoch=8,loss=0.402910,acc=0.7501
+transformer2-epoch=8,loss=0.347718,acc=0.7503
+transformer2-epoch=9,loss=0.594061,acc=0.7188
+transformer2-epoch=9,loss=0.488492,acc=0.7482
+transformer2-epoch=9,loss=0.438505,acc=0.7511
+transformer2-epoch=9,loss=0.504537,acc=0.752
+transformer2-epoch=9,loss=0.501746,acc=0.7519
+transformer2-epoch=9,loss=0.532807,acc=0.7523
+transformer2-epoch=9,loss=0.525043,acc=0.7521
+transformer2-epoch=9,loss=0.560826,acc=0.7524
+transformer2-epoch=9,loss=0.412100,acc=0.7529
+transformer2-epoch=9,loss=0.464508,acc=0.7531
+transformer2-epoch=10,loss=0.490988,acc=0.75
+transformer2-epoch=10,loss=0.413440,acc=0.7546
+transformer2-epoch=10,loss=0.341027,acc=0.755
+transformer2-epoch=10,loss=0.466259,acc=0.7557
+transformer2-epoch=10,loss=0.496577,acc=0.7553
+transformer2-epoch=10,loss=0.518079,acc=0.7553
+transformer2-epoch=10,loss=0.427897,acc=0.7552
+transformer2-epoch=10,loss=0.500962,acc=0.75
+transformer2-epoch=10,loss=0.406424,acc=0.7734
+transformer2-epoch=10,loss=0.493752,acc=0.756
+transformer2-epoch=10,loss=0.463099,acc=0.755
+transformer2-epoch=10,loss=0.557751,acc=0.7559
+transformer2-epoch=10,loss=0.427316,acc=0.7559
+transformer2-epoch=10,loss=0.507104,acc=0.7561
+transformer2-epoch=10,loss=0.432592,acc=0.7566
+transformer2-epoch=10,loss=0.455220,acc=0.7567
+transformer2-epoch=10,loss=0.371954,acc=0.7572
+transformer2-epoch=10,loss=0.444973,acc=0.7575
+transformer2-epoch=11,loss=0.502473,acc=0.6953
+transformer2-epoch=11,loss=0.530119,acc=0.7599
+transformer2-epoch=11,loss=0.490142,acc=0.7609
+transformer2-epoch=11,loss=0.396220,acc=0.7607
+transformer2-epoch=11,loss=0.517518,acc=0.76
+transformer2-epoch=11,loss=0.425902,acc=0.7605
+transformer2-epoch=11,loss=0.589741,acc=0.7606
+transformer2-epoch=11,loss=0.389855,acc=0.7604
+transformer2-epoch=11,loss=0.485058,acc=0.7606
+transformer2-epoch=11,loss=0.464637,acc=0.7608
+transformer2-epoch=12,loss=0.419169,acc=0.8281
+transformer2-epoch=12,loss=0.566977,acc=0.7609
+transformer2-epoch=12,loss=0.643524,acc=0.7619
+transformer2-epoch=12,loss=0.453018,acc=0.7623
+transformer2-epoch=12,loss=0.574201,acc=0.7626
+transformer2-epoch=12,loss=0.526992,acc=0.7633
+transformer2-epoch=12,loss=0.536219,acc=0.7631
+transformer2-epoch=12,loss=0.433132,acc=0.75
+transformer2-epoch=12,loss=0.394544,acc=0.7623
+transformer2-epoch=12,loss=0.579142,acc=0.7624
+transformer2-epoch=12,loss=0.572194,acc=0.7629
+transformer2-epoch=12,loss=0.477848,acc=0.7656
+transformer2-epoch=12,loss=0.375957,acc=0.7614
+transformer2-epoch=12,loss=0.534229,acc=0.7615
+transformer2-epoch=12,loss=0.392912,acc=0.7627
+transformer2-epoch=12,loss=0.446327,acc=0.7624
+transformer2-epoch=12,loss=0.549776,acc=0.7625
+transformer2-epoch=12,loss=0.419785,acc=0.7629
+transformer2-epoch=12,loss=0.444162,acc=0.7628
+transformer2-epoch=12,loss=0.443017,acc=0.7632
+transformer2-epoch=12,loss=0.446123,acc=0.7637
+transformer2-epoch=13,loss=0.528720,acc=0.75
+transformer2-epoch=13,loss=0.347467,acc=0.7676
+transformer2-epoch=13,loss=0.560265,acc=0.7677
+transformer2-epoch=13,loss=0.388884,acc=0.7677
+transformer2-epoch=13,loss=0.556296,acc=0.7668
+transformer2-epoch=13,loss=0.632409,acc=0.7658
+transformer2-epoch=13,loss=0.653429,acc=0.7662
+transformer2-epoch=13,loss=0.453457,acc=0.7662
+transformer2-epoch=13,loss=0.443836,acc=0.7664
+transformer2-epoch=13,loss=0.476202,acc=0.7663
+transformer2-epoch=14,loss=0.403106,acc=0.75
+transformer2-epoch=14,loss=0.452601,acc=0.7685
+transformer2-epoch=14,loss=0.475492,acc=0.7684
+transformer2-epoch=14,loss=0.376244,acc=0.7685
+transformer2-epoch=14,loss=0.588060,acc=0.7682
+transformer2-epoch=14,loss=0.474337,acc=0.768
+transformer2-epoch=14,loss=0.440718,acc=0.7675
+transformer2-epoch=15,loss=0.401232,acc=0.8203
+transformer2-epoch=15,loss=0.418157,acc=0.7705
+transformer2-epoch=15,loss=0.392833,acc=0.7682
+transformer2-epoch=15,loss=0.361993,acc=0.7681
+transformer2-epoch=15,loss=0.416090,acc=0.7687
+transformer2-epoch=15,loss=0.427755,acc=0.7689
+transformer2-epoch=15,loss=0.368117,acc=0.7695
+transformer2-epoch=15,loss=0.356243,acc=0.7696
+transformer2-epoch=15,loss=0.496813,acc=0.7695
+transformer2-epoch=15,loss=0.390264,acc=0.7698
+transformer2-epoch=16,loss=0.524582,acc=0.7344
+transformer2-epoch=16,loss=0.439032,acc=0.7688
+transformer2-epoch=16,loss=0.463712,acc=0.7709
+transformer2-epoch=16,loss=0.516763,acc=0.7721
+transformer2-epoch=16,loss=0.380312,acc=0.772
+transformer2-epoch=16,loss=0.324805,acc=0.7726
+transformer2-epoch=16,loss=0.491081,acc=0.7723
+transformer2-epoch=16,loss=0.474997,acc=0.7724
+transformer2-epoch=16,loss=0.401776,acc=0.7723
+transformer2-epoch=16,loss=0.527735,acc=0.772
+transformer2-epoch=17,loss=0.458930,acc=0.7344
+transformer2-epoch=17,loss=0.500129,acc=0.7715
+transformer2-epoch=17,loss=0.538145,acc=0.7731
+transformer2-epoch=17,loss=0.360532,acc=0.7736
+transformer2-epoch=17,loss=0.457289,acc=0.7738
+transformer2-epoch=17,loss=0.527104,acc=0.7741
+transformer2-epoch=17,loss=0.345449,acc=0.7737
+transformer2-epoch=18,loss=0.434840,acc=0.7578
+transformer2-epoch=18,loss=0.512159,acc=0.7745
+transformer2-epoch=18,loss=0.441827,acc=0.774
+transformer2-epoch=18,loss=0.499023,acc=0.7746
+transformer2-epoch=18,loss=0.517864,acc=0.7741
+transformer2-epoch=18,loss=0.448673,acc=0.7741
+transformer2-epoch=19,loss=0.583656,acc=0.6562
+transformer2-epoch=19,loss=0.471978,acc=0.7769
+transformer2-epoch=19,loss=0.488959,acc=0.776
+transformer2-epoch=19,loss=0.476843,acc=0.776
+transformer2-epoch=19,loss=0.436714,acc=0.7758
+transformer2-epoch=19,loss=0.401983,acc=0.7759
+transformer2-epoch=19,loss=0.450314,acc=0.7757
+transformer2-epoch=19,loss=0.442091,acc=0.7756
+transformer2-epoch=19,loss=0.419358,acc=0.7755
+transformer2-epoch=19,loss=0.543670,acc=0.7758
+transformer2-epoch=20,loss=0.462135,acc=0.7344
+transformer2-epoch=20,loss=0.369166,acc=0.7761
+transformer2-epoch=20,loss=0.352681,acc=0.7768
+transformer2-epoch=20,loss=0.508415,acc=0.7771
+transformer2-epoch=20,loss=0.498831,acc=0.7772
+transformer2-epoch=20,loss=0.407096,acc=0.7776
+transformer2-epoch=20,loss=0.430192,acc=0.7778
+transformer2-epoch=20,loss=0.399794,acc=0.7775
+transformer2-epoch=20,loss=0.409546,acc=0.7773
+transformer2-epoch=20,loss=0.472063,acc=0.7777
+transformer2-epoch=21,loss=0.376906,acc=0.875
+transformer2-epoch=21,loss=0.448290,acc=0.7804
+transformer2-epoch=21,loss=0.336333,acc=0.7796
+transformer2-epoch=21,loss=0.455885,acc=0.7793
+transformer2-epoch=21,loss=0.482790,acc=0.7786
+transformer2-epoch=21,loss=0.477148,acc=0.7794
+transformer2-epoch=21,loss=0.388806,acc=0.7791
+transformer2-epoch=22,loss=0.398034,acc=0.7812
+transformer2-epoch=22,loss=0.413952,acc=0.7811
+transformer2-epoch=22,loss=0.361184,acc=0.7798
+transformer2-epoch=22,loss=0.419261,acc=0.7793
+transformer2-epoch=22,loss=0.571254,acc=0.7794
+transformer2-epoch=22,loss=0.535425,acc=0.7798
+transformer2-epoch=23,loss=0.333961,acc=0.8594
+transformer2-epoch=23,loss=0.407313,acc=0.7829
+transformer2-epoch=23,loss=0.534517,acc=0.7811
+transformer2-epoch=23,loss=0.488251,acc=0.7812
+transformer2-epoch=23,loss=0.482653,acc=0.7812
+transformer2-epoch=23,loss=0.420131,acc=0.7813
+transformer2-epoch=23,loss=0.396212,acc=0.781
+transformer2-epoch=23,loss=0.422813,acc=0.7812
+transformer2-epoch=23,loss=0.420678,acc=0.7815
+transformer2-epoch=23,loss=0.418050,acc=0.7814
+transformer2-epoch=24,loss=0.289419,acc=0.875
+transformer2-epoch=24,loss=0.407968,acc=0.7839
+transformer2-epoch=24,loss=0.381980,acc=0.7848
+transformer2-epoch=24,loss=0.465038,acc=0.7839
+transformer2-epoch=24,loss=0.348631,acc=0.7838
+transformer2-epoch=24,loss=0.361965,acc=0.7841
+transformer2-epoch=24,loss=0.411347,acc=0.7841
+transformer2-epoch=24,loss=0.387169,acc=0.7843
+transformer2-epoch=24,loss=0.438791,acc=0.7842
+transformer2-epoch=25,loss=0.476190,acc=0.7891
+transformer2-epoch=25,loss=0.480770,acc=0.7836
+transformer2-epoch=26,loss=0.505872,acc=0.7031
+transformer2-epoch=26,loss=0.419019,acc=0.7845
+transformer2-epoch=26,loss=0.425286,acc=0.7848
+transformer2-epoch=26,loss=0.457151,acc=0.7845
+transformer2-epoch=26,loss=0.460471,acc=0.785
+transformer2-epoch=26,loss=0.430437,acc=0.7854
+transformer2-epoch=26,loss=0.469108,acc=0.7853
+transformer2-epoch=26,loss=0.399337,acc=0.7851
+transformer2-epoch=26,loss=0.383649,acc=0.7853
+transformer2-epoch=26,loss=0.480248,acc=0.7854
+transformer2-epoch=27,loss=0.426327,acc=0.8438
+transformer2-epoch=27,loss=0.429000,acc=0.7849
+transformer2-epoch=27,loss=0.393840,acc=0.7854
+transformer2-epoch=27,loss=0.402979,acc=0.7866
+transformer2-epoch=27,loss=0.366388,acc=0.8438
+transformer2-epoch=27,loss=0.430605,acc=0.7867
+transformer2-epoch=27,loss=0.389415,acc=0.786
+transformer2-epoch=27,loss=0.448371,acc=0.786
+transformer2-epoch=27,loss=0.388451,acc=0.7865
+transformer2-epoch=27,loss=0.415567,acc=0.7863
+transformer2-epoch=27,loss=0.424788,acc=0.7867
+transformer2-epoch=27,loss=0.519376,acc=0.7868
+transformer2-epoch=27,loss=0.361539,acc=0.7871
+transformer2-epoch=27,loss=0.469695,acc=0.787
+transformer2-epoch=28,loss=0.408034,acc=0.8281
+transformer2-epoch=28,loss=0.324221,acc=0.7862
+transformer2-epoch=28,loss=0.404735,acc=0.7873
+transformer2-epoch=28,loss=0.446500,acc=0.7871
+transformer2-epoch=28,loss=0.399044,acc=0.7879
+transformer2-epoch=28,loss=0.487764,acc=0.7885
+transformer2-epoch=28,loss=0.460879,acc=0.788
+transformer2-epoch=28,loss=0.480780,acc=0.788
+transformer2-epoch=28,loss=0.683841,acc=0.7881
+transformer2-epoch=28,loss=0.386669,acc=0.7878
+transformer2-epoch=29,loss=0.458780,acc=0.7812
+transformer2-epoch=29,loss=0.545790,acc=0.7907
+transformer2-epoch=29,loss=0.515719,acc=0.7889
+transformer2-epoch=29,loss=0.620940,acc=0.7892
+transformer2-epoch=29,loss=0.362391,acc=0.7889
+transformer2-epoch=29,loss=0.485432,acc=0.7891
+transformer2-epoch=29,loss=0.470305,acc=0.789
+transformer2-epoch=27,loss=0.413914,acc=0.7656
+transformer2-epoch=27,loss=0.376576,acc=0.787
+transformer2-epoch=27,loss=0.340343,acc=0.7871
+transformer2-epoch=27,loss=0.518169,acc=0.7858
+transformer2-epoch=27,loss=0.502984,acc=0.7861
+transformer2-epoch=27,loss=0.480441,acc=0.7859
+transformer2-epoch=27,loss=0.452438,acc=0.7862
+transformer2-epoch=27,loss=0.376282,acc=0.7864
+transformer2-epoch=27,loss=0.419307,acc=0.7863
+transformer2-epoch=27,loss=0.406898,acc=0.7864
+transformer2-epoch=28,loss=0.388816,acc=0.8438
+transformer2-epoch=28,loss=0.394511,acc=0.7887
+transformer2-epoch=28,loss=0.402260,acc=0.7881
+transformer2-epoch=28,loss=0.472107,acc=0.7878
+transformer2-epoch=28,loss=0.357499,acc=0.7883
+transformer2-epoch=28,loss=0.337330,acc=0.7876
+transformer2-epoch=28,loss=0.327583,acc=0.7877
+transformer2-epoch=28,loss=0.302898,acc=0.7876
+transformer2-epoch=28,loss=0.440225,acc=0.7876
+transformer2-epoch=28,loss=0.592130,acc=0.7876
+transformer2-epoch=29,loss=0.414244,acc=0.7656
+transformer2-epoch=29,loss=0.527051,acc=0.7872
+transformer2-epoch=29,loss=0.366795,acc=0.7969
+transformer2-epoch=29,loss=0.407743,acc=0.7878
+transformer2-epoch=29,loss=0.359578,acc=0.7889
+transformer2-epoch=29,loss=0.410847,acc=0.7889
+transformer2-epoch=29,loss=0.438157,acc=0.7887
+transformer2-epoch=29,loss=0.463029,acc=0.7969
+transformer2-epoch=29,loss=0.391095,acc=0.7881
+transformer2-epoch=29,loss=0.457466,acc=0.7882
+transformer2-epoch=29,loss=0.439553,acc=0.7878
+transformer2-epoch=29,loss=0.366836,acc=0.7883
+transformer2-epoch=29,loss=0.462152,acc=0.7884
+transformer2-epoch=29,loss=0.392855,acc=0.7888
+transformer2-epoch=29,loss=0.365830,acc=0.7888
+transformer2-epoch=29,loss=0.387319,acc=0.7892
+transformer2-epoch=29,loss=0.465311,acc=0.7892
+transformer2-epoch=30,loss=0.419730,acc=0.7812
+transformer2-epoch=30,loss=0.543370,acc=0.7887
+transformer2-epoch=30,loss=0.373985,acc=0.7902
+transformer2-epoch=30,loss=0.325394,acc=0.7909
+transformer2-epoch=30,loss=0.318207,acc=0.7907
+transformer2-epoch=30,loss=0.556108,acc=0.7903
+transformer2-epoch=30,loss=0.451641,acc=0.7899
+transformer2-epoch=30,loss=0.392940,acc=0.7904
+transformer2-epoch=30,loss=0.556143,acc=0.7902
+transformer2-epoch=30,loss=0.440542,acc=0.7901
+transformer2-epoch=31,loss=0.436933,acc=0.875
+transformer2-epoch=31,loss=0.483925,acc=0.7903
+transformer2-epoch=31,loss=0.433425,acc=0.7917
+transformer2-epoch=31,loss=0.383911,acc=0.7918
+transformer2-epoch=31,loss=0.355666,acc=0.7912
+transformer2-epoch=31,loss=0.411050,acc=0.7913
+transformer2-epoch=31,loss=0.426347,acc=0.7656
+transformer2-epoch=31,loss=0.422010,acc=0.7926
+transformer2-epoch=31,loss=0.331577,acc=0.7914
+transformer2-epoch=31,loss=0.527806,acc=0.791
+transformer2-epoch=31,loss=0.481564,acc=0.7912
+transformer2-epoch=31,loss=0.334662,acc=0.7912
+transformer2-epoch=31,loss=0.386749,acc=0.791
+transformer2-epoch=31,loss=0.451916,acc=0.7914
+transformer2-epoch=31,loss=0.477635,acc=0.7915
+transformer2-epoch=31,loss=0.561994,acc=0.7911
+transformer2-epoch=32,loss=0.289855,acc=0.8594
+transformer2-epoch=32,loss=0.364904,acc=0.8125
+transformer2-epoch=32,loss=0.374377,acc=0.7926
+transformer2-epoch=32,loss=0.381586,acc=0.7925
+transformer2-epoch=32,loss=0.440446,acc=0.7923
+transformer2-epoch=32,loss=0.427119,acc=0.7924
+transformer2-epoch=32,loss=0.424807,acc=0.7919
+transformer2-epoch=32,loss=0.445396,acc=0.7919
+transformer2-epoch=32,loss=0.530430,acc=0.7921
+transformer2-epoch=32,loss=0.519192,acc=0.7925
+transformer2-epoch=32,loss=0.396161,acc=0.7925
+transformer2-epoch=33,loss=0.368364,acc=0.8438
+transformer2-epoch=33,loss=0.410970,acc=0.7933
+transformer2-epoch=33,loss=0.335347,acc=0.7946
+transformer2-epoch=33,loss=0.426395,acc=0.7943
+transformer2-epoch=33,loss=0.470622,acc=0.7937
+transformer2-epoch=33,loss=0.343107,acc=0.7937
+transformer2-epoch=33,loss=0.386072,acc=0.7935
+transformer2-epoch=33,loss=0.378916,acc=0.7935
+transformer2-epoch=33,loss=0.373025,acc=0.7934
+transformer2-epoch=33,loss=0.333675,acc=0.7932
+transformer2-epoch=34,loss=0.440732,acc=0.7656
+transformer2-epoch=34,loss=0.367818,acc=0.7916
+transformer2-epoch=34,loss=0.457668,acc=0.793
+transformer2-epoch=34,loss=0.371387,acc=0.7938
+transformer2-epoch=34,loss=0.546700,acc=0.7941
+transformer2-epoch=34,loss=0.396792,acc=0.7937
+transformer2-epoch=32,loss=0.423764,acc=0.7656
+transformer2-epoch=32,loss=0.377762,acc=0.7911
+transformer2-epoch=32,loss=0.528089,acc=0.7913
+transformer2-epoch=32,loss=0.325858,acc=0.792
+transformer2-epoch=32,loss=0.486680,acc=0.7914
+transformer2-epoch=32,loss=0.365825,acc=0.7916
+transformer2-epoch=32,loss=0.396007,acc=0.7917
+transformer2-epoch=32,loss=0.481075,acc=0.7918
+transformer2-epoch=32,loss=0.401149,acc=0.7918
+transformer2-epoch=32,loss=0.349743,acc=0.7916
+transformer2-epoch=33,loss=0.385696,acc=0.7969
+transformer2-epoch=33,loss=0.408902,acc=0.792
+transformer2-epoch=33,loss=0.444714,acc=0.7932
+transformer2-epoch=33,loss=0.378938,acc=0.7921
+transformer2-epoch=33,loss=0.334423,acc=0.7923
+transformer2-epoch=33,loss=0.348399,acc=0.7927
+transformer2-epoch=33,loss=0.474127,acc=0.7927
+transformer2-epoch=33,loss=0.507591,acc=0.7926
+transformer2-epoch=33,loss=0.334109,acc=0.7928
+transformer2-epoch=33,loss=0.492277,acc=0.7929
+transformer2-epoch=34,loss=0.423186,acc=0.7656
